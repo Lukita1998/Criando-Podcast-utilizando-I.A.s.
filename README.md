@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src=".github/assets/ChatGPT Image 19 de jun. de 2025, 13_36_53.png"
-    width="300"
+    width="500"
 />
 </p>
 
